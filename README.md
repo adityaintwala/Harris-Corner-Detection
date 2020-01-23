@@ -26,5 +26,4 @@ A post-processing for calculating local minima and maxima is required to address
 Sample Input Image             |  Sample Output Image
 :-----------------------------:|:-----------------------------:
 ![Sample Input Image](/images/ex1.png)  |  ![Sample Output Image](/images/output_ex1.png)
-:-----------------------------:|:-----------------------------:
 ![Sample Input Image](/images/ex2.png)  |  ![Sample Output Image](/images/output_ex2.png)
