@@ -23,6 +23,7 @@ The output of the script would be two files:
 As of now the script is able to detect corners formed by perpendicular intersections very effectively but for slant lines as in sample images ex3 to ex7 we detect many unwanted corners due to change in intensities in local neighbourhood.\
 A post-processing for calculating local minima and maxima is required to address this issue and detect the corners more effectively.
 
+## Samples
 Sample Input Image             |  Sample Output Image
 :-----------------------------:|:-----------------------------:
 ![Sample Input Image](/images/ex1.png)  |  ![Sample Output Image](/images/output_ex1.png)
